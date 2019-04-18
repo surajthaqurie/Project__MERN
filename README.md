@@ -9,7 +9,7 @@ Make sure to follow all these steps exactly as explained below. Do not miss any 
 
 ##### Install Node.Js
 
-- To run this Project, you need to install the latest version of Node.js on your system.
+- To run this Project, you need to install the latest version of Node.js in your system.
 - In this Project the version of Node.js is v8.10.0 .
 - To check the version of Node type
 ``` node -v ``` 
@@ -50,13 +50,13 @@ npm i
  npm start
 ```
 This will launch the Node server on port 4000. If that port is busy, you can set a different point in config/default.json.
-On Linux and Mac:
+- On Linux and Mac:
 ```
- export PORT=3000
+ export PORT=5000
  ```
- On Windows:
+- On Windows:
  ```
- set PORT=3000
+ set PORT=5000
  ```
  Open up your browser and head over to:
  http://localhost:4000/api/home
