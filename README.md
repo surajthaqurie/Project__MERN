@@ -63,6 +63,6 @@ On Linux and Mac:
  http://localhost:4000/api/home
 
 
-###### Contributors
+##### Contributors
 **Suraj Chand**
 
