@@ -11,6 +11,9 @@ Make sure to follow all these steps exactly as explained below. Do not miss any 
 
 - To run this Project, you need to install the latest version of Node.js on your system.
 - In this Project the version of Node.js is v8.10.0 .
+- To check the version of Node type
+``` node -v ``` 
+in the terminal.
 
 For Installation of Node.js goto [Node.js](https://nodejs.org).
 
@@ -25,12 +28,18 @@ Once you install MongoDB, make sure it's running.
 
 For install the dependencies First you have to install NPM in your System.
 
-###### Npm(Node Packege Manager)
+###### Npm (Node Packege Manager)
  
  - For Installation of Npm goto [Npm](https://docs.npmjs.com/)
  ```
  [sudo] npm install npm -g
  ```
+- In this Project the version of NPM is v6.9.0.
+- To check Version of NPM type 
+``` npm -v ``` 
+in the terminal.
+
+After Installing Npm.
 Next, from the project folder, install the dependencies:
 ```
 npm i
@@ -55,5 +64,5 @@ On Linux and Mac:
 
 
 ###### Contributors
-**SurajChand**
+**Suraj Chand**
 
