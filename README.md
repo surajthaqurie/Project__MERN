@@ -1,38 +1,42 @@
-## Introduction
+### Introduction
 
 - This Project is an E-Commerce website developed on MERN fullstack.
-- The name of this project is eZ-shop(Easy Shop).
+- The name of this project is eZ-shop (Easy Shop).
 
-## Setup
+#### Setup
 
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
 
-### Install Node.Js
+##### Install Node.Js
 
-- To run this project, you need to install the latest version of Node.js on your system.
-- In this Projecty  the version of Node.js is v8.10.0 .
+- To run this Project, you need to install the latest version of Node.js on your system.
+- In this Project the version of Node.js is v8.10.0 .
 
 For Installation of Node.js goto [Node.js](https://nodejs.org).
 
-### Install Mongodb
+##### Install Mongodb
 
 - To run this project, you need to install the latest version of MongoDB Community Edition first.
 - For Installation of Mongodb goto [MongoDb](https://docs.mongodb.com/manual/installation/).
 
 Once you install MongoDB, make sure it's running.
 
-### Install the Dependencies
+##### Install the Dependencies
 
-For install the dependencies First you have to install NPM.
+For install the dependencies First you have to install NPM in your System.
 
-### Npm(Node Packege Manager)
-
+###### Npm(Node Packege Manager)
+ 
+ - For Installation of Npm goto [Npm](https://docs.npmjs.com/)
+ ```
+ [sudo] npm install npm -g
+ ```
 Next, from the project folder, install the dependencies:
 ```
 npm i
 
 ```
-### Start the Server
+#### Start the Server
 ```
  npm start
 ```
@@ -50,5 +54,6 @@ On Linux and Mac:
  http://localhost:4000/api/home
 
 
-
+###### Contributors
+**SurajChand**
 
