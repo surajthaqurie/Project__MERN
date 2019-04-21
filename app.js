@@ -1,11 +1,11 @@
-const express = require('express');
-const app = express();
 const cors = require('cors');
 const parser = require('body-parser');
 const passport = require('passport');
 const logWriter = require('./lib/helpers/logwriter.helper');
 const errorHandler = require('./lib/middleware/error.handler');
 
+const express = require('express');
+const app = express();
 
 
 app.use(parser.json());
