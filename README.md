@@ -58,8 +58,7 @@ This will launch the Node server on port 4000. If that port is busy, you can set
  ```
  set PORT=5000
  ```
- Open up your browser and head over to:
- http://localhost:4000/api/home
+ 
 
 
 ##### Contributors
