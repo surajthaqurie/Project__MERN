@@ -1,7 +1,7 @@
 ### Introduction
 
 - This Project is an E-Commerce website developed on MERN fullstack.
-- The name of this project is eZ-shop (Easy Shop).
+- The name of this project is Project__MERN.
 
 #### Setup
 
