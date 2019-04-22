@@ -9,9 +9,6 @@ import Login from './components/auth/Login';
 
 import './App.css';
 
-
-
-
 class App extends Component {
   render() {
     return (
