@@ -1,7 +1,7 @@
 ### Introduction
 
 - This Project is an E-Commerce website developed on MERN fullstack.
-- The name of this project is Project__MERN.
+- The name of this project is eZ-shop (Easy Shop).
 
 #### Setup
 
@@ -58,7 +58,8 @@ This will launch the Node server on port 4000. If that port is busy, you can set
  ```
  set PORT=5000
  ```
- 
+ Open up your browser and head over to:
+ http://localhost:4000/api/home
 
 
 ##### Contributors
