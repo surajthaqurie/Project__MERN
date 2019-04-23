@@ -1,8 +1,49 @@
-.main {
-  position: relative;
+.form-style-8 {
+  font-family: 'Open Sans Condensed', arial, sans;
+  width: 500px;
+  padding: 30px;
+  margin: 50px auto;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+  -webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
 }
 
-.btn-facebook {
-  color: white;
-  background-color: #3b5998;
+.form-style-8 h2 {
+  background: #4d4d4d;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #080808;
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 20px;
+  margin: -50px -30px 30px -30px;
+}
+.input-fields {
+  background: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  padding: 10px;
+  margin: -60px -70px 20px -10px;
+}
+
+.btn {
+  background-color: #252525;
+  font-family: 'Open Sans Condensed', arial, sans;
+  font-size: 12px;
+  padding: 20px;
+  margin: -5px -20px 18px -10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+.btn:hover {
+  background: linear-gradient(to bottom, #4286f4 5%, #4286f4 100%);
+  background-color: #4286f4;
+}
+.lab {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  font-weight: 10;
+  padding: 15px;
+  margin: -25px 2px 5px -10px;
 }
