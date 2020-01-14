@@ -3,7 +3,7 @@
 ### Introduction
 
 - This Project is an E-Commerce website developed on MERN fullstack.
-- The name of this Project_MERN.
+- The name of this MERN-project_demo.
 
 #### Setup
 
