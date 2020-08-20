@@ -14,7 +14,7 @@
   "author": "Suraj Chand",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.4",
     "body-parser": "^1.18.3",
     "concurrently": "^4.1.0",
